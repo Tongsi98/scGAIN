@@ -1,7 +1,8 @@
 # scGAIN
 scGAIN: Single Cell RNA-seq Data Imputation using Generative Adversarial Networks
 
-Code repository for paper: https://www.biorxiv.org/content/10.1101/837302v1
+Code repository for paper: https://www.biorxiv.org/content/10.1101/837302v1 
+Si, Tong, Zackary Hopkins, John Yanev, Jie Hou, and Haijun Gong. "A novel f-divergence based generative adversarial imputation method for scRNA-seq data analysis." Plos one 18, no. 11 (2023): e0292792.
 
 ### Contents:
 
